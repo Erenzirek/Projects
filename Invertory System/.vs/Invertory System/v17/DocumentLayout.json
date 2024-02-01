@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erenz\\source\\repos\\Invertory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7DE1F-CACA-44C4-9013-DEECC350DD03}|Invertory System\\Invertory System.vcxproj|C:\\Users\\erenz\\source\\repos\\Invertory System\\Invertory System\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89C7DE1F-CACA-44C4-9013-DEECC350DD03}|Invertory System\\Invertory System.vcxproj|solutionrelative:Invertory System\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7DE1F-CACA-44C4-9013-DEECC350DD03}|Invertory System\\Invertory System.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\PREVIEW\\VC\\TOOLS\\MSVC\\14.39.33321\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33321\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33321\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33321\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33321\\include\\vector",
+              "ViewState": "AQIAAFwIAAAAAAAAAAASwGYIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-01T12:31:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Users\\erenz\\source\\repos\\Invertory System\\Invertory System\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "Invertory System\\Kaynak.cpp",
+              "ToolTip": "C:\\Users\\erenz\\source\\repos\\Invertory System\\Invertory System\\Kaynak.cpp",
+              "RelativeToolTip": "Invertory System\\Kaynak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-31T21:43:23.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
